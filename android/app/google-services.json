@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634528432695",
+    "project_id": "ceb-app-dab8a",
+    "storage_bucket": "ceb-app-dab8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634528432695:android:e98e260bc5a534e993f5b2",
+        "android_client_info": {
+          "package_name": "com.example.ceb_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUnIalIdTDJ5N_eXbKAG8a4-3940H126w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

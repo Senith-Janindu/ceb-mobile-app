@@ -1,0 +1,2 @@
+0 Analogue Meter
+1 Smart Meter
